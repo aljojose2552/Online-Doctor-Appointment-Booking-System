@@ -1,0 +1,55 @@
+
+ /* other code with code
+
+input{
+    width: 30%;
+    margin-left: 50%;
+    justify-content: center;
+    height: 45px;
+}
+.content{
+    margin-left: 30%;
+    margin-top: -97%;
+}
+.table h1{
+    font-size: 25;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.table table, th, td {
+    margin-top: 10vh;
+    border: 1px dashed;
+    width: auto;
+    
+  }
+
+ */
+
+  .content{
+    margin-top: -60%;
+    margin-left: 20%;
+    max-width: 1000px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+}
+.content input{
+    margin-left: 60%;
+    width: 250px;
+    height: 45px;
+}
+.tab table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+
+  .tab img{
+    border-radius: 50%;
+  }
+  
+  
